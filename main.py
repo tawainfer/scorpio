@@ -2,6 +2,7 @@ import os
 import sys
 import pathlib
 import subprocess
+import xml.etree.ElementTree as et
 from tkinter import filedialog
 
 def export_drawio(path, type):
@@ -20,6 +21,30 @@ def export_drawio(path, type):
     print(e.stdout.decode())
     print(e.stderr.decode())
 
+def summarize_drawio(path):
+  with open(path) as rf:
+    data = rf.read()
+
+    root = et.fromstring(data)
+    elements = root.findall('.//*[@value]')
+
+    result = list()
+    for e in elements:
+      child_elements = e.findall('.//*[@as="geometry"]')
+      ce = child_elements[0]
+
+      d = dict()
+      d['value'] = e.get('value')
+      d['x'] = ce.get('x')
+      d['y'] = ce.get('y')
+      d['width'] = ce.get('width')
+      d['height'] = ce.get('height')
+      result.append(d)
+
+  with open(f'{path}.summary', 'w') as wf:
+    for r in result:
+      wf.write(str(r) + '\n')
+
 if __name__ == '__main__':
   script_dir = os.path.dirname(os.path.abspath(__file__))
   os.chdir(script_dir)
@@ -31,3 +56,4 @@ if __name__ == '__main__':
   p = pathlib.Path(dir_path)
   for path in p.glob("**/*.drawio"):
     export_drawio(path, 'png')
+    summarize_drawio(path)
