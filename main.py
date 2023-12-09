@@ -4,12 +4,15 @@ import pathlib
 import subprocess
 from tkinter import filedialog
 
-def drawio_to_png(path):
+def export_drawio(path, type):
+  if type not in ['jpeg', 'jpg', 'png', 'svg', 'xml']:
+    return
+
   base = str(path)
   while not base.endswith('.') and len(base) > 0:
     base = base[:len(base) - 1]
 
-  cmd = f"draw.io -xf png -o '{base}png' '{base}drawio'"
+  cmd = f"draw.io -xf {type} -o '{base}{type}' '{base}drawio'"
   try:
     result = subprocess.run(cmd, shell = True, check = True, stdout = subprocess.PIPE, stderr = subprocess.PIPE)
     print(result.stdout.decode())
@@ -27,4 +30,4 @@ if __name__ == '__main__':
 
   p = pathlib.Path(dir_path)
   for path in p.glob("**/*.drawio"):
-    drawio_to_png(path)
+    export_drawio(path, 'png')
