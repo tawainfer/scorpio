@@ -1,5 +1,5 @@
-{'value': '山田：ユーザ', 'x': '150', 'y': '210', 'width': '180', 'height': '116'}
-{'value': '氏名 = 山田太郎', 'x': None, 'y': '26', 'width': '180', 'height': '26'}
+{'value': '田川：ユーザ', 'x': '150', 'y': '210', 'width': '180', 'height': '116'}
+{'value': '氏名 = 田川太郎', 'x': None, 'y': '26', 'width': '180', 'height': '26'}
 {'value': 'メールアドレス = aaa@gmail.com', 'x': None, 'y': '52', 'width': '180', 'height': '38'}
 {'value': 'パスワード = aaaa', 'x': None, 'y': '90', 'width': '180', 'height': '26'}
 {'value': '田中：ユーザ', 'x': '400', 'y': '210', 'width': '180', 'height': '116'}
