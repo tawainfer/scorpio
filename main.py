@@ -5,6 +5,9 @@ import subprocess
 import xml.etree.ElementTree as et
 from tkinter import filedialog
 
+# DRAWIO_PATH = r'draw.io'
+DRAWIO_PATH = r'C:\Program Files\draw.io\draw.io.exe'
+
 def export_drawio(path, type):
   if type not in ['jpeg', 'jpg', 'png', 'svg', 'xml']:
     return
@@ -13,16 +16,14 @@ def export_drawio(path, type):
   while not base.endswith('.') and len(base) > 0:
     base = base[:len(base) - 1]
 
-  cmd = f"draw.io -xf {type} -o '{base}{type}' '{base}drawio'"
+  cmd = f'"{DRAWIO_PATH}" -xf {type} -o "{base}{type}" "{base}drawio"'
   try:
-    result = subprocess.run(cmd, shell = True, check = True, stdout = subprocess.PIPE, stderr = subprocess.PIPE)
-    print(result.stdout.decode())
-  except subprocess.CalledProcessError as e:
-    print(e.stdout.decode())
-    print(e.stderr.decode())
+    subprocess.run(cmd, shell = True, check = True)
+  except subprocess.CalledProcessError:
+    print(f'failed to execute {cmd}')
 
 def summarize_drawio(path):
-  with open(path) as rf:
+  with open(path, 'r', encoding = 'utf-8') as rf:
     data = rf.read()
 
     root = et.fromstring(data)
@@ -41,7 +42,7 @@ def summarize_drawio(path):
       d['height'] = ce.get('height')
       result.append(d)
 
-  with open(f'{path}.summary', 'w') as wf:
+  with open(f'{path}.summary', 'w', encoding = 'utf-8') as wf:
     for r in result:
       wf.write(str(r) + '\n')
 
