@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T01:57:51.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ArRmiJAsIY8WG5NAkht6" version="22.1.7" type="device">
+<mxfile host="app.diagrams.net" modified="2023-12-13T05:37:37.286Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LLTmY-Rur4LIOdNFObly" version="22.1.8" type="device">
   <diagram name="ページ1" id="riSVBeFmMrVej5-FhOZP">
-    <mxGraphModel dx="366" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1089" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-1" value="田川：ユーザ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-240" width="260" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-2" value="氏名 = 田川太郎" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-3" value="メールアドレス = abc@gmail.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-1">
+          <mxGeometry y="52" width="260" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-4" value="パスワード = aaaa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-1">
+          <mxGeometry y="80" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-5" value="アカウント登録日 = 2023年12月3日" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-1">
+          <mxGeometry y="106" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-6" value="アカウント変更日 = 2024年1月3日" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-1">
+          <mxGeometry y="132" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-7" value="田中：ユーザ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="-40" width="270" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-8" value="氏名 = 田中次郎" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-7">
+          <mxGeometry y="26" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-9" value="メールアドレス = bbb@gmail.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-7">
+          <mxGeometry y="52" width="270" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-10" value="パスワード = abcd" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-7">
+          <mxGeometry y="80" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-11" value="アカウント登録日 = 2023年12月4日" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-7">
+          <mxGeometry y="106" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-12" value="アカウント変更日 = 2024年1月4日" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-7">
+          <mxGeometry y="132" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-13" value="斉藤：ユーザ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="160" width="270" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-14" value="氏名 = 斉藤花子" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-13">
+          <mxGeometry y="26" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-15" value="メールアドレス = ccc@gmail.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-13">
+          <mxGeometry y="52" width="270" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-16" value="パスワード = aaaa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-13">
+          <mxGeometry y="80" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-17" value="アカウント登録日 = 2023年12月5日" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-13">
+          <mxGeometry y="106" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CRwQtwmsNH5E5zE7e5ZG-18" value="アカウント変更日 = 2024年1月5日" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRwQtwmsNH5E5zE7e5ZG-13">
+          <mxGeometry y="132" width="270" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
