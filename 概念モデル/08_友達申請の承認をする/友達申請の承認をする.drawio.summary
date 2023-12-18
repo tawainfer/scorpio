@@ -1,0 +1,17 @@
+{'value': '田中さんから斉藤さんへの友達申請：友達申請', 'x': '250', 'y': '-40', 'width': '260', 'height': '130'}
+{'value': '申請日時 =&nbsp;2024年1月13日10時30分', 'x': None, 'y': '26', 'width': '260', 'height': '26'}
+{'value': '申請状態 =&nbsp;', 'x': None, 'y': '52', 'width': '260', 'height': '26'}
+{'value': '友達になった日時 = 2024年1月13日12時30分', 'x': None, 'y': '78', 'width': '260', 'height': '26'}
+{'value': '承認状態 = 承認', 'x': None, 'y': '104', 'width': '260', 'height': '26'}
+{'value': '田中：ユーザ', 'x': '-90', 'y': '-239', 'width': '270', 'height': '158'}
+{'value': '氏名 = 田中次郎', 'x': None, 'y': '26', 'width': '270', 'height': '26'}
+{'value': 'メールアドレス = bbb@gmail.com', 'x': None, 'y': '52', 'width': '270', 'height': '28'}
+{'value': 'パスワード = abcd', 'x': None, 'y': '80', 'width': '270', 'height': '26'}
+{'value': 'アカウント登録日 = 2023年12月4日', 'x': None, 'y': '106', 'width': '270', 'height': '26'}
+{'value': 'アカウント変更日 = 2024年1月4日', 'x': None, 'y': '132', 'width': '270', 'height': '26'}
+{'value': '斉藤：ユーザ', 'x': '590', 'y': '-239', 'width': '270', 'height': '158'}
+{'value': '氏名 = 斉藤花子', 'x': None, 'y': '26', 'width': '270', 'height': '26'}
+{'value': 'メールアドレス = ccc@gmail.com', 'x': None, 'y': '52', 'width': '270', 'height': '28'}
+{'value': 'パスワード = aaaa', 'x': None, 'y': '80', 'width': '270', 'height': '26'}
+{'value': 'アカウント登録日 = 2023年12月5日', 'x': None, 'y': '106', 'width': '270', 'height': '26'}
+{'value': 'アカウント変更日 = 2024年1月5日', 'x': None, 'y': '132', 'width': '270', 'height': '26'}

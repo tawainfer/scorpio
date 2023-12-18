@@ -16,3 +16,16 @@
 {'value': 'パスワード = aaaa', 'x': None, 'y': '80', 'width': '270', 'height': '26'}
 {'value': 'アカウント登録日 = 2023年12月5日', 'x': None, 'y': '106', 'width': '270', 'height': '26'}
 {'value': 'アカウント変更日 = 2024年1月5日', 'x': None, 'y': '132', 'width': '270', 'height': '26'}
+{'value': '田川さんの日記：日記', 'x': '240', 'y': '-200', 'width': '260', 'height': '106'}
+{'value': '作成日時 =&nbsp;2024年2月3日13時30分', 'x': None, 'y': '26', 'width': '260', 'height': '26'}
+{'value': '投稿内容 =&nbsp;会社でイベントをやるらしい！', 'x': None, 'y': '52', 'width': '260', 'height': '28'}
+{'value': '公開範囲 = 全体', 'x': None, 'y': '80', 'width': '260', 'height': '26'}
+{'value': '田中さんの日記：日記', 'x': '240', 'y': '12', 'width': '260', 'height': '106'}
+{'value': '作成日時 =&nbsp;2024年2月4日14時30分', 'x': None, 'y': '26', 'width': '260', 'height': '26'}
+{'value': '投稿内容 =&nbsp;今日残業確定...', 'x': None, 'y': '52', 'width': '260', 'height': '28'}
+{'value': '公開範囲 = 友達間', 'x': None, 'y': '80', 'width': '260', 'height': '26'}
+{'value': '斉藤さんの日記：日記', 'x': '240', 'y': '212', 'width': '260', 'height': '106'}
+{'value': '作成日時 =&nbsp;2024年2月5日15時30分', 'x': None, 'y': '26', 'width': '260', 'height': '26'}
+{'value': '投稿内容 =&nbsp;書類の提出忘れない！', 'x': None, 'y': '52', 'width': '260', 'height': '28'}
+{'value': '公開範囲 = 非公開', 'x': None, 'y': '80', 'width': '260', 'height': '26'}
+{'value': '', 'x': None, 'y': None, 'width': '50', 'height': '50'}
