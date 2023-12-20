@@ -10,7 +10,7 @@
         <mxCell id="NA4M02z0dETBeoxEjW9a-2" value="氏名 = 田川太郎" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="NA4M02z0dETBeoxEjW9a-1" vertex="1">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NA4M02z0dETBeoxEjW9a-3" value="メールアドレス = abc@gmail.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="NA4M02z0dETBeoxEjW9a-1" vertex="1">
+        <mxCell id="NA4M02z0dETBeoxEjW9a-3" value="メールアドレス = abc@email.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="NA4M02z0dETBeoxEjW9a-1" vertex="1">
           <mxGeometry y="52" width="260" height="28" as="geometry" />
         </mxCell>
         <mxCell id="NA4M02z0dETBeoxEjW9a-4" value="パスワード = aaaa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="NA4M02z0dETBeoxEjW9a-1" vertex="1">
@@ -28,7 +28,7 @@
         <mxCell id="NA4M02z0dETBeoxEjW9a-8" value="氏名 = 田中次郎" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="NA4M02z0dETBeoxEjW9a-7" vertex="1">
           <mxGeometry y="26" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NA4M02z0dETBeoxEjW9a-9" value="メールアドレス = bbb@gmail.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="NA4M02z0dETBeoxEjW9a-7" vertex="1">
+        <mxCell id="NA4M02z0dETBeoxEjW9a-9" value="メールアドレス = bbb@email.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="NA4M02z0dETBeoxEjW9a-7" vertex="1">
           <mxGeometry y="52" width="270" height="28" as="geometry" />
         </mxCell>
         <mxCell id="NA4M02z0dETBeoxEjW9a-10" value="パスワード = abcd" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="NA4M02z0dETBeoxEjW9a-7" vertex="1">
@@ -46,7 +46,7 @@
         <mxCell id="NA4M02z0dETBeoxEjW9a-14" value="氏名 = 斉藤花子" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="NA4M02z0dETBeoxEjW9a-13" vertex="1">
           <mxGeometry y="26" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NA4M02z0dETBeoxEjW9a-15" value="メールアドレス = ccc@gmail.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="NA4M02z0dETBeoxEjW9a-13" vertex="1">
+        <mxCell id="NA4M02z0dETBeoxEjW9a-15" value="メールアドレス = ccc@email.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="NA4M02z0dETBeoxEjW9a-13" vertex="1">
           <mxGeometry y="52" width="270" height="28" as="geometry" />
         </mxCell>
         <mxCell id="NA4M02z0dETBeoxEjW9a-16" value="パスワード = aaaa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="NA4M02z0dETBeoxEjW9a-13" vertex="1">

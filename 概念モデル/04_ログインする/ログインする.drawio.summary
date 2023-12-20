@@ -1,18 +1,18 @@
 {'value': '田川：ユーザ', 'x': '-100', 'y': '-240', 'width': '260', 'height': '158'}
 {'value': '氏名 = 田川太郎', 'x': None, 'y': '26', 'width': '260', 'height': '26'}
-{'value': 'メールアドレス = abc@gmail.com', 'x': None, 'y': '52', 'width': '260', 'height': '28'}
+{'value': 'メールアドレス = abc@email.com', 'x': None, 'y': '52', 'width': '260', 'height': '28'}
 {'value': 'パスワード = aaaa', 'x': None, 'y': '80', 'width': '260', 'height': '26'}
 {'value': 'アカウント登録日 = 2023年12月3日', 'x': None, 'y': '106', 'width': '260', 'height': '26'}
 {'value': 'アカウント変更日 = 2024年1月3日', 'x': None, 'y': '132', 'width': '260', 'height': '26'}
 {'value': '田中：ユーザ', 'x': '-105', 'y': '-40', 'width': '270', 'height': '158'}
 {'value': '氏名 = 田中次郎', 'x': None, 'y': '26', 'width': '270', 'height': '26'}
-{'value': 'メールアドレス = bbb@gmail.com', 'x': None, 'y': '52', 'width': '270', 'height': '28'}
+{'value': 'メールアドレス = bbb@email.com', 'x': None, 'y': '52', 'width': '270', 'height': '28'}
 {'value': 'パスワード = abcd', 'x': None, 'y': '80', 'width': '270', 'height': '26'}
 {'value': 'アカウント登録日 = 2023年12月4日', 'x': None, 'y': '106', 'width': '270', 'height': '26'}
 {'value': 'アカウント変更日 = 2024年1月4日', 'x': None, 'y': '132', 'width': '270', 'height': '26'}
 {'value': '斉藤：ユーザ', 'x': '-105', 'y': '160', 'width': '270', 'height': '158'}
 {'value': '氏名 = 斉藤花子', 'x': None, 'y': '26', 'width': '270', 'height': '26'}
-{'value': 'メールアドレス = ccc@gmail.com', 'x': None, 'y': '52', 'width': '270', 'height': '28'}
+{'value': 'メールアドレス = ccc@email.com', 'x': None, 'y': '52', 'width': '270', 'height': '28'}
 {'value': 'パスワード = aaaa', 'x': None, 'y': '80', 'width': '270', 'height': '26'}
 {'value': 'アカウント登録日 = 2023年12月5日', 'x': None, 'y': '106', 'width': '270', 'height': '26'}
 {'value': 'アカウント変更日 = 2024年1月5日', 'x': None, 'y': '132', 'width': '270', 'height': '26'}
