@@ -1,20 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T06:09:32.286Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gwUpHYcdTx_FW6JWNA7f" version="22.1.11" type="device">
+<mxfile host="app.diagrams.net" modified="2023-12-22T05:55:10.089Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8XshctfdKy4oTej7NCjo" version="22.1.11" type="device">
   <diagram name="ページ1" id="yKGSKwx2iApxRbMb-iql">
-    <mxGraphModel dx="875" dy="1294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5jU9OnGaMAhgYZFJMl4r-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.538;entryY=1.231;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="u8juwu7gdZ8zy1GhN_T0-1" target="5jU9OnGaMAhgYZFJMl4r-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u8juwu7gdZ8zy1GhN_T0-1" value="田中さんから斉藤さんへの友達申請：友達申請" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="-40" width="260" height="104" as="geometry" />
+          <mxGeometry x="250" y="-40" width="260" height="78" as="geometry" />
         </mxCell>
         <mxCell id="u8juwu7gdZ8zy1GhN_T0-2" value="申請日時 =&amp;nbsp;2024年1月13日10時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="u8juwu7gdZ8zy1GhN_T0-1" vertex="1">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="u8juwu7gdZ8zy1GhN_T0-3" value="状態 = 承認" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="u8juwu7gdZ8zy1GhN_T0-1" vertex="1">
           <mxGeometry y="52" width="260" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="u8juwu7gdZ8zy1GhN_T0-4" value="友達になった日時 = 2024年1月13日12時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="u8juwu7gdZ8zy1GhN_T0-1" vertex="1">
-          <mxGeometry y="78" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="u8juwu7gdZ8zy1GhN_T0-6" value="田中：ユーザ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="-239" width="270" height="158" as="geometry" />
@@ -58,63 +60,96 @@
         <mxCell id="u8juwu7gdZ8zy1GhN_T0-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.344;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" parent="1" source="u8juwu7gdZ8zy1GhN_T0-2" target="u8juwu7gdZ8zy1GhN_T0-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-1" value="田川：ユーザ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-1" value="田川：ユーザ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="-700" width="260" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-2" value="氏名 = 田川太郎" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="t8nr99b3wxwpr4dsEBpK-1">
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-2" value="氏名 = 田川太郎" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="t8nr99b3wxwpr4dsEBpK-1" vertex="1">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-3" value="メールアドレス = abc@email.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="t8nr99b3wxwpr4dsEBpK-1">
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-3" value="メールアドレス = abc@email.com" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="t8nr99b3wxwpr4dsEBpK-1" vertex="1">
           <mxGeometry y="52" width="260" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-4" value="パスワード = aaaa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="t8nr99b3wxwpr4dsEBpK-1">
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-4" value="パスワード = aaaa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="t8nr99b3wxwpr4dsEBpK-1" vertex="1">
           <mxGeometry y="80" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-5" value="アカウント登録日 = 2023年12月3日" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="t8nr99b3wxwpr4dsEBpK-1">
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-5" value="アカウント登録日 = 2023年12月3日" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="t8nr99b3wxwpr4dsEBpK-1" vertex="1">
           <mxGeometry y="106" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-6" value="アカウント変更日 = 2024年1月3日" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="t8nr99b3wxwpr4dsEBpK-1">
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-6" value="アカウント変更日 = 2024年1月3日" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="t8nr99b3wxwpr4dsEBpK-1" vertex="1">
           <mxGeometry y="132" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-7" value="田川さんから斉藤さんへの友達申請：友達申請" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="-452" width="260" height="104" as="geometry" />
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-7" value="田川さんから斉藤さんへの友達申請：友達申請" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="-452" width="260" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-8" value="申請日時 =&amp;nbsp;2024年1月15日12時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="t8nr99b3wxwpr4dsEBpK-7">
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-8" value="申請日時 =&amp;nbsp;2024年1月15日12時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="t8nr99b3wxwpr4dsEBpK-7" vertex="1">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-9" value="状態 = 承認" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="t8nr99b3wxwpr4dsEBpK-7">
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-9" value="状態 = 承認" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="t8nr99b3wxwpr4dsEBpK-7" vertex="1">
           <mxGeometry y="52" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-10" value="友達になった日時 = 2024年1月15日14時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="t8nr99b3wxwpr4dsEBpK-7">
-          <mxGeometry y="78" width="260" height="26" as="geometry" />
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-12" value="斉藤さんから田川さんへの友達申請：友達申請" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="-450" width="260" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-12" value="斉藤さんから田川さんへの友達申請：友達申請" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-450" width="260" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-13" value="申請日時 =&amp;nbsp;2024年1月14日11時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="t8nr99b3wxwpr4dsEBpK-12">
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-13" value="申請日時 =&amp;nbsp;2024年1月14日11時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="t8nr99b3wxwpr4dsEBpK-12" vertex="1">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-14" value="状態 = 申請可能" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="t8nr99b3wxwpr4dsEBpK-12">
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-14" value="状態 = 申請可能" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="t8nr99b3wxwpr4dsEBpK-12" vertex="1">
           <mxGeometry y="52" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-15" value="友達になった日時 = null" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="t8nr99b3wxwpr4dsEBpK-12">
-          <mxGeometry y="78" width="260" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.437;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="u8juwu7gdZ8zy1GhN_T0-12" target="t8nr99b3wxwpr4dsEBpK-15">
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.41;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" parent="1" source="u8juwu7gdZ8zy1GhN_T0-12" target="t8nr99b3wxwpr4dsEBpK-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="515.9599999999998" y="-317.99799999999993" as="targetPoint" />
+            <mxPoint x="513.6200000000003" y="-346.5720000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.539;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="u8juwu7gdZ8zy1GhN_T0-12" target="t8nr99b3wxwpr4dsEBpK-10">
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.532;entryY=0.968;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" parent="1" source="u8juwu7gdZ8zy1GhN_T0-12" target="t8nr99b3wxwpr4dsEBpK-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="929.8800000000001" y="-319.99799999999993" as="targetPoint" />
+            <mxPoint x="930.1400000000003" y="-348.28599999999983" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.455;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="t8nr99b3wxwpr4dsEBpK-7" target="t8nr99b3wxwpr4dsEBpK-6">
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;entryX=0.478;entryY=0.955;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="t8nr99b3wxwpr4dsEBpK-7" target="t8nr99b3wxwpr4dsEBpK-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="-540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t8nr99b3wxwpr4dsEBpK-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.51;entryY=0.936;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" parent="1" source="t8nr99b3wxwpr4dsEBpK-12" target="t8nr99b3wxwpr4dsEBpK-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t8nr99b3wxwpr4dsEBpK-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.51;entryY=0.936;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="t8nr99b3wxwpr4dsEBpK-12" target="t8nr99b3wxwpr4dsEBpK-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5jU9OnGaMAhgYZFJMl4r-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="t8nr99b3wxwpr4dsEBpK-4" target="5jU9OnGaMAhgYZFJMl4r-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="-411" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5jU9OnGaMAhgYZFJMl4r-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="u8juwu7gdZ8zy1GhN_T0-15" target="5jU9OnGaMAhgYZFJMl4r-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1283.3300000000004" y="-405.3399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5jU9OnGaMAhgYZFJMl4r-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="t8nr99b3wxwpr4dsEBpK-9" target="5jU9OnGaMAhgYZFJMl4r-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="-411" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5jU9OnGaMAhgYZFJMl4r-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.125;entryY=1.045;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="u8juwu7gdZ8zy1GhN_T0-9" target="5jU9OnGaMAhgYZFJMl4r-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="243.31999999999994" y="-170.65999999999985" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5jU9OnGaMAhgYZFJMl4r-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.837;entryY=1.045;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="u8juwu7gdZ8zy1GhN_T0-15" target="5jU9OnGaMAhgYZFJMl4r-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460.76923076923094" y="-170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5jU9OnGaMAhgYZFJMl4r-17" value="：友達" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="-424" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="5jU9OnGaMAhgYZFJMl4r-21" value="友達になった日時 =&amp;nbsp;2024年1月15日14時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="5jU9OnGaMAhgYZFJMl4r-17">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5jU9OnGaMAhgYZFJMl4r-22" value="：友達" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-290" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="5jU9OnGaMAhgYZFJMl4r-25" value="友達になった日時 =&amp;nbsp;2024年1月13日12時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="5jU9OnGaMAhgYZFJMl4r-22">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
