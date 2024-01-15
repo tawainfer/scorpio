@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T06:08:29.105Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JkQB2tqzKcybCxLHEqga" version="22.1.18" type="device">
+<mxfile host="app.diagrams.net" modified="2024-01-15T02:00:00.257Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PZWtiDkpnEBqMfate0Kq" version="22.1.18" type="device">
   <diagram name="ページ1" id="riSVBeFmMrVej5-FhOZP">
-    <mxGraphModel dx="1834" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
           <mxGeometry y="132" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Rn3ytvov92WmOWu4cLF2-1" value="田川さんの日記：日記" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="-220" width="260" height="106" as="geometry" />
+          <mxGeometry x="900" y="-220" width="260" height="158" as="geometry" />
         </mxCell>
         <mxCell id="Rn3ytvov92WmOWu4cLF2-2" value="作成日時 =&amp;nbsp;2024年2月3日13時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Rn3ytvov92WmOWu4cLF2-1" vertex="1">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
@@ -70,8 +70,14 @@
         <mxCell id="Rn3ytvov92WmOWu4cLF2-4" value="公開範囲 = 全体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Rn3ytvov92WmOWu4cLF2-1" vertex="1">
           <mxGeometry y="80" width="260" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="whpNmKZ_2BXHVK1q9sKm-1" value="リアクション数 = 0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Rn3ytvov92WmOWu4cLF2-1">
+          <mxGeometry y="106" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="whpNmKZ_2BXHVK1q9sKm-4" value="リアクションした人 = null" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Rn3ytvov92WmOWu4cLF2-1">
+          <mxGeometry y="132" width="260" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="Rn3ytvov92WmOWu4cLF2-7" value="田中さんの日記：日記" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="-8" width="260" height="106" as="geometry" />
+          <mxGeometry x="900" y="-8" width="260" height="158" as="geometry" />
         </mxCell>
         <mxCell id="Rn3ytvov92WmOWu4cLF2-8" value="作成日時 =&amp;nbsp;2024年2月4日14時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Rn3ytvov92WmOWu4cLF2-7" vertex="1">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
@@ -82,8 +88,14 @@
         <mxCell id="Rn3ytvov92WmOWu4cLF2-10" value="公開範囲 = 友達間" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Rn3ytvov92WmOWu4cLF2-7" vertex="1">
           <mxGeometry y="80" width="260" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="whpNmKZ_2BXHVK1q9sKm-5" value="リアクション数 = 0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Rn3ytvov92WmOWu4cLF2-7">
+          <mxGeometry y="106" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="whpNmKZ_2BXHVK1q9sKm-6" value="リアクションした人 = null" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Rn3ytvov92WmOWu4cLF2-7">
+          <mxGeometry y="132" width="260" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="Rn3ytvov92WmOWu4cLF2-11" value="斉藤さんの日記：日記" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="320" width="260" height="106" as="geometry" />
+          <mxGeometry x="900" y="320" width="260" height="158" as="geometry" />
         </mxCell>
         <mxCell id="Rn3ytvov92WmOWu4cLF2-12" value="作成日時 =&amp;nbsp;2024年2月5日15時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Rn3ytvov92WmOWu4cLF2-11" vertex="1">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
@@ -93,6 +105,12 @@
         </mxCell>
         <mxCell id="Rn3ytvov92WmOWu4cLF2-14" value="公開範囲 = 非公開" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Rn3ytvov92WmOWu4cLF2-11" vertex="1">
           <mxGeometry y="80" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="whpNmKZ_2BXHVK1q9sKm-7" value="リアクション数 = 0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Rn3ytvov92WmOWu4cLF2-11">
+          <mxGeometry y="106" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="whpNmKZ_2BXHVK1q9sKm-8" value="リアクションした人 = null" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Rn3ytvov92WmOWu4cLF2-11">
+          <mxGeometry y="132" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Rn3ytvov92WmOWu4cLF2-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" parent="1" source="Rn3ytvov92WmOWu4cLF2-13" target="CRwQtwmsNH5E5zE7e5ZG-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
