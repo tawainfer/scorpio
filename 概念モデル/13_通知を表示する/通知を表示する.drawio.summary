@@ -1,0 +1,39 @@
+{'value': '田川：ユーザ', 'x': '-120', 'y': '-280', 'width': '260', 'height': '158'}
+{'value': '氏名 = 田川太郎', 'x': None, 'y': '26', 'width': '260', 'height': '26'}
+{'value': 'メールアドレス = abc@email.com', 'x': None, 'y': '52', 'width': '260', 'height': '28'}
+{'value': 'パスワード = aaaa', 'x': None, 'y': '80', 'width': '260', 'height': '26'}
+{'value': 'アカウント登録日 = 2023年12月3日', 'x': None, 'y': '106', 'width': '260', 'height': '26'}
+{'value': 'アカウント変更日 = 2024年1月3日', 'x': None, 'y': '132', 'width': '260', 'height': '26'}
+{'value': '田中：ユーザ', 'x': '-120', 'y': '-40', 'width': '270', 'height': '158'}
+{'value': '氏名 = 田中次郎', 'x': None, 'y': '26', 'width': '270', 'height': '26'}
+{'value': 'メールアドレス = bbb@email.com', 'x': None, 'y': '52', 'width': '270', 'height': '28'}
+{'value': 'パスワード = abcd', 'x': None, 'y': '80', 'width': '270', 'height': '26'}
+{'value': 'アカウント登録日 = 2023年12月4日', 'x': None, 'y': '106', 'width': '270', 'height': '26'}
+{'value': 'アカウント変更日 = 2024年1月4日', 'x': None, 'y': '132', 'width': '270', 'height': '26'}
+{'value': '斉藤：ユーザ', 'x': '-120', 'y': '200', 'width': '270', 'height': '158'}
+{'value': '氏名 = 斉藤花子', 'x': None, 'y': '26', 'width': '270', 'height': '26'}
+{'value': 'メールアドレス = ccc@email.com', 'x': None, 'y': '52', 'width': '270', 'height': '28'}
+{'value': 'パスワード = aaaa', 'x': None, 'y': '80', 'width': '270', 'height': '26'}
+{'value': 'アカウント登録日 = 2023年12月5日', 'x': None, 'y': '106', 'width': '270', 'height': '26'}
+{'value': 'アカウント変更日 = 2024年1月5日', 'x': None, 'y': '132', 'width': '270', 'height': '26'}
+{'value': '田中さんから田川さんへの通知：通知', 'x': '640', 'y': '-230', 'width': '260', 'height': '80'}
+{'value': '作成日時 =&nbsp;2024年2月3日14時30分', 'x': None, 'y': '26', 'width': '260', 'height': '26'}
+{'value': '種類 = リアクション', 'x': None, 'y': '52', 'width': '260', 'height': '28'}
+{'value': '田川さんの通知一覧：通知一覧', 'x': '240', 'y': '-210', 'width': '260', 'height': '52'}
+{'value': '', 'x': None, 'y': '26', 'width': '260', 'height': '26'}
+{'value': '田中さんの通知一覧：通知一覧', 'x': '250', 'y': '73', 'width': '260', 'height': '52'}
+{'value': '', 'x': None, 'y': '26', 'width': '260', 'height': '26'}
+{'value': '斉藤さんの通知一覧：通知一覧', 'x': '240', 'y': '282', 'width': '260', 'height': '52'}
+{'value': '', 'x': None, 'y': '26', 'width': '260', 'height': '26'}
+{'value': '斉藤さんから田中さんへの通知：通知', 'x': '640', 'y': '60', 'width': '260', 'height': '80'}
+{'value': '作成日時 =&nbsp;2024年1月13日12時30分', 'x': None, 'y': '26', 'width': '260', 'height': '26'}
+{'value': '種類 = 友達申請の承認', 'x': None, 'y': '52', 'width': '260', 'height': '28'}
+{'value': '田川さんから斉藤さんへの通知：通知', 'x': '640', 'y': '268', 'width': '260', 'height': '80'}
+{'value': '作成日時 =&nbsp;2024年1月14日13時30分', 'x': None, 'y': '26', 'width': '260', 'height': '26'}
+{'value': '種類 = 友達申請の拒否', 'x': None, 'y': '52', 'width': '260', 'height': '28'}
+{'value': '斉藤さんから田川さんへの通知：通知', 'x': '640', 'y': '-120', 'width': '260', 'height': '80'}
+{'value': '作成日時 =&nbsp;2024年1月15日14時30分', 'x': None, 'y': '26', 'width': '260', 'height': '26'}
+{'value': '種類 = 友達申請の承認', 'x': None, 'y': '52', 'width': '260', 'height': '28'}
+{'value': '田中さんから田川さんへの通知：通知', 'x': '640', 'y': '-340', 'width': '260', 'height': '80'}
+{'value': '作成日時 =&nbsp;2024年2月3日14時30分', 'x': None, 'y': '26', 'width': '260', 'height': '26'}
+{'value': '種類 = コメント', 'x': None, 'y': '52', 'width': '260', 'height': '28'}

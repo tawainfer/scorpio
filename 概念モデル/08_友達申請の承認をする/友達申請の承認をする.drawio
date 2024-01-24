@@ -1,12 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T02:04:30.152Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Sewrpcavu8qwJUDC2z3Z" version="22.1.20" type="device">
+<mxfile host="app.diagrams.net" modified="2024-01-24T05:46:51.622Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qOr3c62Ipkej1voPWrDx" version="22.1.21" type="device">
   <diagram name="ページ1" id="yKGSKwx2iApxRbMb-iql">
-    <mxGraphModel dx="1888" dy="1459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5jU9OnGaMAhgYZFJMl4r-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.538;entryY=1.231;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="u8juwu7gdZ8zy1GhN_T0-1" target="5jU9OnGaMAhgYZFJMl4r-25" edge="1">
+        <mxCell id="5jU9OnGaMAhgYZFJMl4r-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" parent="1" source="u8juwu7gdZ8zy1GhN_T0-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="-170" as="targetPoint" />
+            <mxPoint x="380" y="-240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u8juwu7gdZ8zy1GhN_T0-1" value="田中さんから斉藤さんへの友達申請：友達申請" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t8nr99b3wxwpr4dsEBpK-1" value="田川：ユーザ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="-700" width="260" height="158" as="geometry" />
+          <mxGeometry x="600" y="-770" width="260" height="158" as="geometry" />
         </mxCell>
         <mxCell id="t8nr99b3wxwpr4dsEBpK-2" value="氏名 = 田川太郎" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="t8nr99b3wxwpr4dsEBpK-1" vertex="1">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
@@ -151,40 +151,67 @@
         <mxCell id="5jU9OnGaMAhgYZFJMl4r-25" value="友達になった日時 =&amp;nbsp;2024年1月13日12時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="5jU9OnGaMAhgYZFJMl4r-22" vertex="1">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="U3_ybfSCVV_3cQvE5vRp-1" value="田中さんから田川さんへの通知：通知" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U3_ybfSCVV_3cQvE5vRp-1" value="斉藤さんから田中さんへの通知：通知" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="120" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U3_ybfSCVV_3cQvE5vRp-2" value="作成日時 =&amp;nbsp;2024年1月13日12時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="U3_ybfSCVV_3cQvE5vRp-1">
+        <mxCell id="U3_ybfSCVV_3cQvE5vRp-2" value="作成日時 =&amp;nbsp;2024年1月13日12時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="U3_ybfSCVV_3cQvE5vRp-1" vertex="1">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="U3_ybfSCVV_3cQvE5vRp-3" value="種類 = 友達申請の承認" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="U3_ybfSCVV_3cQvE5vRp-1">
+        <mxCell id="U3_ybfSCVV_3cQvE5vRp-3" value="種類 = 友達申請の承認" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="U3_ybfSCVV_3cQvE5vRp-1" vertex="1">
           <mxGeometry y="52" width="260" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="U3_ybfSCVV_3cQvE5vRp-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.519;entryY=0.949;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="U3_ybfSCVV_3cQvE5vRp-1" target="u8juwu7gdZ8zy1GhN_T0-3">
+        <mxCell id="U3_ybfSCVV_3cQvE5vRp-5" value="田川さんから斉藤さんへの通知：通知" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="-161" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U3_ybfSCVV_3cQvE5vRp-6" value="作成日時 =&amp;nbsp;2024年1月14日13時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="U3_ybfSCVV_3cQvE5vRp-5" vertex="1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="U3_ybfSCVV_3cQvE5vRp-7" value="種類 = 友達申請の拒否" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="U3_ybfSCVV_3cQvE5vRp-5" vertex="1">
+          <mxGeometry y="52" width="260" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="U3_ybfSCVV_3cQvE5vRp-9" value="斉藤さんから田川さんへの通知：通知" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="-680" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U3_ybfSCVV_3cQvE5vRp-10" value="作成日時 =&amp;nbsp;2024年1月15日14時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="U3_ybfSCVV_3cQvE5vRp-9" vertex="1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="U3_ybfSCVV_3cQvE5vRp-11" value="種類 = 友達申請の承認" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="U3_ybfSCVV_3cQvE5vRp-9" vertex="1">
+          <mxGeometry y="52" width="260" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gCvJhwvPWljQgmee6B1J-1" value="田中さんの通知一覧：通知一覧" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=default;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="120" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gCvJhwvPWljQgmee6B1J-2" value="" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gCvJhwvPWljQgmee6B1J-1">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gCvJhwvPWljQgmee6B1J-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.481;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="gCvJhwvPWljQgmee6B1J-1" target="u8juwu7gdZ8zy1GhN_T0-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U3_ybfSCVV_3cQvE5vRp-5" value="田川さんから斉藤さんへの通知：通知" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-640" width="260" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="U3_ybfSCVV_3cQvE5vRp-6" value="作成日時 =&amp;nbsp;2024年1月14日13時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="U3_ybfSCVV_3cQvE5vRp-5">
-          <mxGeometry y="26" width="260" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="U3_ybfSCVV_3cQvE5vRp-7" value="種類 = 友達申請の拒否" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="U3_ybfSCVV_3cQvE5vRp-5">
-          <mxGeometry y="52" width="260" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="U3_ybfSCVV_3cQvE5vRp-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.446;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="t8nr99b3wxwpr4dsEBpK-12" target="U3_ybfSCVV_3cQvE5vRp-7">
+        <mxCell id="gCvJhwvPWljQgmee6B1J-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="gCvJhwvPWljQgmee6B1J-1" target="U3_ybfSCVV_3cQvE5vRp-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U3_ybfSCVV_3cQvE5vRp-9" value="斉藤さんから田川さんへの通知：通知" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="-630" width="260" height="80" as="geometry" />
+        <mxCell id="gCvJhwvPWljQgmee6B1J-5" value="斉藤さんの通知一覧：通知一覧" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=default;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="40" width="260" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="U3_ybfSCVV_3cQvE5vRp-10" value="作成日時 =&amp;nbsp;2024年1月15日14時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="U3_ybfSCVV_3cQvE5vRp-9">
+        <mxCell id="gCvJhwvPWljQgmee6B1J-6" value="" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gCvJhwvPWljQgmee6B1J-5">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="U3_ybfSCVV_3cQvE5vRp-11" value="種類 = 友達申請の承認" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="U3_ybfSCVV_3cQvE5vRp-9">
-          <mxGeometry y="52" width="260" height="28" as="geometry" />
+        <mxCell id="gCvJhwvPWljQgmee6B1J-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.481;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="gCvJhwvPWljQgmee6B1J-5" target="u8juwu7gdZ8zy1GhN_T0-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U3_ybfSCVV_3cQvE5vRp-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.51;entryY=1.089;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="t8nr99b3wxwpr4dsEBpK-7" target="U3_ybfSCVV_3cQvE5vRp-11">
+        <mxCell id="gCvJhwvPWljQgmee6B1J-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.492;entryY=1.071;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="gCvJhwvPWljQgmee6B1J-5" target="U3_ybfSCVV_3cQvE5vRp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCvJhwvPWljQgmee6B1J-9" value="田川さんの通知一覧：通知一覧" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=default;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-920" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gCvJhwvPWljQgmee6B1J-10" value="" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="gCvJhwvPWljQgmee6B1J-9">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gCvJhwvPWljQgmee6B1J-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.923;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="t8nr99b3wxwpr4dsEBpK-1" target="gCvJhwvPWljQgmee6B1J-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gCvJhwvPWljQgmee6B1J-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.427;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="gCvJhwvPWljQgmee6B1J-9" target="U3_ybfSCVV_3cQvE5vRp-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
