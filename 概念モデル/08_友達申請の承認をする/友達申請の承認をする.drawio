@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T05:43:47.914Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="XOuHIDMn2VcYjec1Az35" version="23.0.2" type="device">
+<mxfile host="app.diagrams.net" modified="2024-02-05T01:07:15.016Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="RTSfPxL3Hps7NTdrcask" version="23.1.1" type="device">
   <diagram name="ページ1" id="yKGSKwx2iApxRbMb-iql">
-    <mxGraphModel dx="1795" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,42 +213,6 @@
         </mxCell>
         <mxCell id="gCvJhwvPWljQgmee6B1J-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.427;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" parent="1" source="gCvJhwvPWljQgmee6B1J-9" target="U3_ybfSCVV_3cQvE5vRp-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pf9Lw23T_1Vfivpya9Td-4" value="田中さんから斉藤さんへの友達申請：友達申請" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="50" width="260" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="Pf9Lw23T_1Vfivpya9Td-5" value="申請日時 =&amp;nbsp;2024年1月13日10時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Pf9Lw23T_1Vfivpya9Td-4">
-          <mxGeometry y="26" width="260" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Pf9Lw23T_1Vfivpya9Td-6" value="状態 = 待機中" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Pf9Lw23T_1Vfivpya9Td-4">
-          <mxGeometry y="52" width="260" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Pf9Lw23T_1Vfivpya9Td-7" value="友達になった日時 = null" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Pf9Lw23T_1Vfivpya9Td-4">
-          <mxGeometry y="78" width="260" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Pf9Lw23T_1Vfivpya9Td-8" value="田中さんから斉藤さんへの友達申請2：友達申請" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="180" width="270" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="Pf9Lw23T_1Vfivpya9Td-9" value="申請日時 =&amp;nbsp;2024年1月13日10時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Pf9Lw23T_1Vfivpya9Td-8">
-          <mxGeometry y="26" width="270" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Pf9Lw23T_1Vfivpya9Td-10" value="状態 = 申請可能" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Pf9Lw23T_1Vfivpya9Td-8">
-          <mxGeometry y="52" width="270" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Pf9Lw23T_1Vfivpya9Td-11" value="友達になった日時 = null" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Pf9Lw23T_1Vfivpya9Td-8">
-          <mxGeometry y="78" width="270" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Pf9Lw23T_1Vfivpya9Td-12" value="田中さんから斉藤さんへの友達申請2：友達申請" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="300" width="270" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="Pf9Lw23T_1Vfivpya9Td-13" value="申請日時 =&amp;nbsp;2024年1月13日10時30分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Pf9Lw23T_1Vfivpya9Td-12">
-          <mxGeometry y="26" width="270" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Pf9Lw23T_1Vfivpya9Td-14" value="状態 = 申請可能" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Pf9Lw23T_1Vfivpya9Td-12">
-          <mxGeometry y="52" width="270" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Pf9Lw23T_1Vfivpya9Td-15" value="友達になった日時 = null" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Pf9Lw23T_1Vfivpya9Td-12">
-          <mxGeometry y="78" width="270" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
